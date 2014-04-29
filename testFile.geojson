@@ -502,7 +502,7 @@
 							  "properties": {
 							    "name": "Main Brewpub"
 							  }
-							}{
+							},{
 							  "type": "Feature",
 							  "geometry": {
 							    "type": "Point",
@@ -916,7 +916,7 @@
 							  "properties": {
 							    "name": "Mission Brewery Plaza"
 							  }
-							}{
+							},{
 							  "type": "Feature",
 							  "geometry": {
 							    "type": "Point",
@@ -1357,7 +1357,7 @@
 							  "properties": {
 							    "name": "Main Brewery"
 							  }
-							}{
+							},{
 							  "type": "Feature",
 							  "geometry": {
 							    "type": "Point",
